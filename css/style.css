@@ -34,10 +34,13 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 10px 120px;
+    margin-bottom: 20px;
 }
 .hero {
     padding: 25px 120px;
     display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
 }
 .hero h2 {
     font-size: 48px;
@@ -47,4 +50,14 @@ header {
 .hero p {
     font-size: 18px;
     color: #E5E7EB;
+}
+.hero button {
+    background-color: #3882F6;
+    color:#E5E7EB ;
+    font-size: 18px;
+    padding: 8px 24px;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    
 }
