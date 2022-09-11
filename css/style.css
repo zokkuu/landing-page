@@ -63,13 +63,18 @@ header {
 }
 
 .paint img {
-    width: 250px;
-    height: 250px;
-}
+    width: 220px;
+    height: 220px; }
 
 .paint {
     display: flex;
-    flex-wrap: row wrap; }
+    gap: 25px; 
+    margin-right: 75px;
+    margin-left: 75px;
+    justify-content: center;
+    align-items: center;
+}
+
 
 #info {
     font-size: 36px;
