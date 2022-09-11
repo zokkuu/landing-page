@@ -33,5 +33,18 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 10px 55px;
+    padding: 10px 120px;
+}
+.hero {
+    padding: 25px 120px;
+    display: flex;
+}
+.hero h2 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: extra-bold;
+}
+.hero p {
+    font-size: 18px;
+    color: #E5E7EB;
 }
