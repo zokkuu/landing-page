@@ -67,11 +67,12 @@ header {
     width: 220px;
     height: 220px;
     border: 5px solid #3882F6 ;
+    border-radius: 15px;
  }
 
 .paint {
     display: flex;
-    gap: 50px; 
+    gap: 50px;
     margin-right: 75px;
     margin-left: 75px;
     justify-content: center;
@@ -89,8 +90,8 @@ header {
 }
 .info p {
     max-width: 220px;
-    font-size: 18px;
     text-align: center;
+    font-size: 18px;
     
 }
 .information {
