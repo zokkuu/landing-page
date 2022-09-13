@@ -130,3 +130,14 @@ footer {
     padding-top: 25px;
     padding-bottom: 25px;
 }
+
+.action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882F6 ;
+    margin: 150px 300px;
+    gap: 25px;
+    border-radius: 5px;
+    padding: 25px 75px;
+}
