@@ -140,4 +140,21 @@ footer {
     gap: 25px;
     border-radius: 5px;
     padding: 25px 75px;
+    color: #E5E7EB;
+}
+
+.action h3 {
+    color: #F9FAF8;
+
+}
+
+.action button {
+    background-color: #3882F6;
+    color:#F9FAF8 ;
+    font-size: 18px;
+    padding: 8px 24px;
+    font-weight: 600;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+
 }
