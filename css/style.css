@@ -98,3 +98,25 @@ header {
     margin-top: 45px;
     margin-bottom: 90px;
 }
+
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
+.text p {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    max-width: 900px;
+}
+.text {
+    display: flex;
+    flex-direction: column;
+    padding: 150px;
+    justify-content: center;
+    align-items: center;
+
+}
+.text h3 {
+    padding-left: 750px;
+}
