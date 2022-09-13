@@ -107,7 +107,6 @@ header {
     font-size: 36px;
     font-weight: 300;
     font-style: italic;
-    max-width: 900px;
 }
 .text {
     display: flex;
@@ -117,6 +116,7 @@ header {
     align-items: center;
 
 }
+
 .text h3 {
-    padding-left: 750px;
+    align-self: flex-end;
 }
