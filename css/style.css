@@ -41,6 +41,7 @@ header {
     display: flex;
     justify-content: space-between;
     padding-bottom: 100px;
+    gap: 25px;
 }
 .hero h2 {
     font-size: 48px;
@@ -64,11 +65,13 @@ header {
 
 .paint img {
     width: 220px;
-    height: 220px; }
+    height: 220px;
+    border: 5px solid #3882F6 ;
+ }
 
 .paint {
     display: flex;
-    gap: 25px; 
+    gap: 50px; 
     margin-right: 75px;
     margin-left: 75px;
     justify-content: center;
@@ -83,4 +86,14 @@ header {
     text-align: center;
     margin-bottom: 50px;
    
+}
+.info p {
+    max-width: 220px;
+    font-size: 18px;
+    text-align: center;
+    
+}
+.information {
+    margin-top: 45px;
+    margin-bottom: 90px;
 }
